@@ -265,6 +265,213 @@ Security and Compliance Officers ensure that projects meet security standards, r
 
 ---
 
+## Release Manager / DevOps Engineer
+
+### Role Summary
+Release Managers and DevOps Engineers own deployment infrastructure, release automation, and deployment execution. They ensure reliable, safe deployments to production and maintain deployment pipelines and monitoring.
+
+### Responsibilities
+- Design and maintain CI/CD pipelines and deployment automation
+- Coordinate release scheduling and deployment windows
+- Execute deployments and monitor for issues
+- Manage rollback procedures and incident response
+- Document deployment procedures and runbooks
+- Collaborate with developers on deployment testability and monitoring
+- Manage infrastructure as code and environment configuration
+
+### Goals
+- Enable fast, safe, reliable deployments
+- Minimize deployment-related incidents and downtime
+- Provide clear visibility into deployment status and health
+- Support continuous delivery and deployment automation
+
+### Typical Communication
+- Release coordination meetings
+- Deployment runbooks and incident playbooks
+- Status updates during deployments
+- Post-incident retrospectives
+
+### Interaction with Other Roles
+- **Developers**: Collaborate on deployment testability, CI/CD pipeline feedback, and issue troubleshooting
+- **Project Managers**: Coordinate deployment scheduling and communicate deployment status
+- **QA/Testing Lead**: Collaborate on smoke test execution and deployment verification
+- **Security/Compliance Officer**: Ensure security controls in deployment pipelines and environments
+
+---
+
+## Business Analyst
+
+### Role Summary
+Business Analysts translate business requirements into actionable specifications. They bridge stakeholders, product managers, and the delivery team to ensure clarity on what needs to be built and why.
+
+### Responsibilities
+- Gather and document business requirements from stakeholders
+- Clarify acceptance criteria and success metrics
+- Identify process improvements and optimization opportunities
+- Validate that solutions meet business needs
+- Create requirement specifications and user stories
+- Support backlog refinement and prioritization
+
+### Goals
+- Ensure clear, testable requirements
+- Reduce scope ambiguity and rework
+- Maximize business value delivered
+- Enable effective communication between business and delivery teams
+
+### Typical Communication
+- Requirements gathering sessions
+- Stakeholder interviews and discovery
+- Backlog refinement and user story collaboration
+- Acceptance criteria definition
+
+### Interaction with Other Roles
+- **Product Managers**: Collaborate on requirements prioritization and backlog refinement
+- **Developers**: Clarify requirements and support implementation questions
+- **QA/Testing Lead**: Define testable acceptance criteria
+- **Stakeholders**: Gather requirements and validate solutions
+
+---
+
+## Technical Writer / Documentation Lead
+
+### Role Summary
+Technical Writers and Documentation Leads create user-facing and internal documentation that enables users to adopt and support systems effectively. They ensure documentation is clear, accurate, and accessible.
+
+### Responsibilities
+- Create and maintain user guides, API documentation, and help content
+- Collaborate with developers and product managers on documentation requirements
+- Develop documentation strategy and standards
+- Conduct user research to understand documentation needs
+- Manage knowledge bases and documentation systems
+- Review and update documentation for accuracy and clarity
+- Support training and onboarding documentation
+
+### Goals
+- Reduce support burden through clear, comprehensive documentation
+- Enable users to self-serve and adopt features independently
+- Maintain documentation quality and consistency
+- Improve user satisfaction and product usability
+
+### Typical Communication
+- Documentation planning and strategy sessions
+- Collaboration with development teams on feature documentation
+- User feedback and support requests
+- Documentation standards and style guide reviews
+
+### Interaction with Other Roles
+- **Developers**: Collaborate on technical accuracy and completeness of documentation
+- **Product Managers**: Align on documentation priorities and user needs
+- **QA/Testing Lead**: Validate that documentation matches actual product behavior
+- **Customer Success / Support Representative**: Gather user feedback and support questions to improve documentation
+- **UX/Design Lead**: Ensure documentation follows design and usability standards
+
+---
+
+## Data Analyst
+
+### Role Summary
+Data Analysts analyze project metrics, success metrics, and key performance indicators to provide data-driven insights. They enable teams to measure impact and make evidence-based decisions.
+
+### Responsibilities
+- Define and track project and business metrics
+- Collect, analyze, and report on project performance data
+- Identify trends, patterns, and insights from data
+- Create dashboards and reports for stakeholder visibility
+- Support A/B testing and experimentation analysis
+- Validate success criteria and outcomes measurement
+- Provide recommendations based on data analysis
+
+### Goals
+- Enable data-driven decision making
+- Provide clear visibility into project health and impact
+- Identify optimization opportunities and risks early
+- Support continuous improvement and learning
+
+### Typical Communication
+- Weekly metric reviews and status reports
+- Dashboard development and monitoring
+- Analysis and insights presentations
+- Collaboration on experiment design and analysis
+
+### Interaction with Other Roles
+- **Product Managers**: Provide insights to support prioritization and product decisions
+- **Project Managers**: Report on project health and milestone progress
+- **Stakeholders**: Present business impact and ROI metrics
+- **Developers**: Analyze technical metrics (performance, reliability, deployment frequency)
+- **QA/Testing Lead**: Analyze quality metrics and test coverage
+
+---
+
+## Customer Success / Support Representative
+
+### Role Summary
+Customer Success and Support Representatives are the voice of the customer. They provide customer feedback, manage customer support coordination, and identify training and documentation needs based on real user experiences.
+
+### Responsibilities
+- Provide frontline customer support and issue resolution
+- Collect and communicate customer feedback to product and development teams
+- Identify training and documentation gaps through customer interactions
+- Coordinate customer onboarding and enablement
+- Escalate critical customer issues and risks
+- Track customer satisfaction and support metrics
+- Identify feature requests and product improvement opportunities
+
+### Goals
+- Ensure customer satisfaction and retention
+- Bridge the gap between customers and product teams
+- Reduce support burden through effective documentation and training
+- Enable customers to achieve success with the product
+
+### Typical Communication
+- Customer support tickets and escalations
+- Customer feedback summaries and feature requests
+- Support metrics and customer satisfaction reports
+- Training coordination and customer success planning
+
+### Interaction with Other Roles
+- **Product Managers**: Communicate customer feedback and feature requests
+- **Developers**: Report bugs and provide customer context for issues
+- **Technical Writer / Documentation Lead**: Identify documentation gaps and training needs
+- **Project Managers**: Escalate critical customer issues and coordinate resolution
+- **QA/Testing Lead**: Validate that features meet customer expectations
+
+---
+
+## Compliance/Legal Advisor
+
+### Role Summary
+Compliance and Legal Advisors ensure that projects meet regulatory requirements, organizational policies, and legal standards. They identify and mitigate compliance and legal risks throughout the project lifecycle.
+
+### Responsibilities
+- Review projects for regulatory compliance and legal alignment
+- Identify compliance risks and recommend mitigation strategies
+- Ensure adherence to organizational policies and industry standards
+- Provide guidance on data privacy, intellectual property, and licensing
+- Conduct compliance audits and assessments
+- Coordinate with external legal counsel when needed
+- Document compliance decisions and rationale
+
+### Goals
+- Minimize legal and compliance risk
+- Ensure organizational and regulatory alignment
+- Protect organizational assets and reputation
+- Enable informed decision making on legal and compliance matters
+
+### Typical Communication
+- Compliance and legal reviews
+- Risk assessments and mitigation planning
+- Policy and standard guidance
+- Audit and compliance reporting
+
+### Interaction with Other Roles
+- **Project Managers**: Identify compliance and legal requirements early in project planning
+- **Security/Compliance Officer**: Collaborate on security, privacy, and compliance controls
+- **Stakeholders**: Escalate compliance risks and provide compliance status
+- **Developers**: Ensure technical implementation meets compliance requirements
+- **Product Managers**: Advise on product features and data handling compliance
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
